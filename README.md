@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Salman Ali</h1>
-<h3 align="center">A fullstack developer from Pakistan</h3>
+<h3 align="center">A fullstack developer</h3>
 
 - 👨🏻‍💻🎨 I've made the majority of my apps with the Rails framework. I enjoy working on the logical backend as much as I enjoy making a beautiful frontend.
 
