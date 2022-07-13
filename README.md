@@ -1,5 +1,5 @@
 # Salman Ali 
-Lahore | dev.salman.ali@gmail.com 
+Lahore | salmanpucit35@gmail.com 
 
 
 ## Skills and tools
@@ -15,7 +15,7 @@ Frontend: `React`, `VueJS`,`Angular`
 
 ## Experience
 
-## Software Engineer @ Devsinc, | July 2017 - Present
+## Software Engineer @ Devsinc, | July 2017 - January 2021
 - Management and development of large Ruby on Rails application
 - Scrum management, release management
 - Communication with clients
