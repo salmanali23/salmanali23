@@ -4,7 +4,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="Hi.gif" width="30px">, I'm Salman Ali</h1>
-<h3 align="center">Senior Software Engineer | Team Lead</h3>
+<h3 align="center">Senior Software Engineer</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/maddy2353/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="salman" height="30" width="40" /></a>
  <a href = "mailto: salmanpucit35@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
@@ -13,8 +13,8 @@
 
 <p align="center">
   <em>
-    This is ME, Salman Ali, graduate from <a href="https://pucit.edu.pk/"> <b>Punjab university college of information technology</b></a>.<br>
-    A budding <b>Full-Stack Software Engineer</b> <img src="Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    This is ME, Salman Ali, a graduate from <a href="https://pucit.edu.pk/"> <b>Punjab University College of Information Technology </b></a>.<br>
+    A budding <b>Full-Stack Software Engineer</b> <img src="Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp,<br>who is <b>obsessed</b>
     with a passion for creating <b>dynamic</b> and <b>user-friendly</b> web applications. Adept at building robust and scalable solutions that deliver exceptional user experiences. <b>improving</b> himself and wants a <b>platform</b> to
     <b>grow</b> <img src="Rocket.gif" width="18px">and
     <b>excel</b> <img src="Medal.gif" width="20px">&nbsp.
